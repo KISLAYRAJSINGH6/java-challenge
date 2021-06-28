@@ -9,6 +9,7 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 - H2 UI : http://localhost:8080/h2-console
 
 > Don't forget to set the `JDBC URL` value as `jdbc:h2:mem:testdb` for H2 UI.
+>Oauth.inMemoryAuthentication() details  User=axa  ,password =123 roles=Admin"
 
 
 
@@ -47,6 +48,5 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 Please let us know more about your Java experience in a few sentences. For example:
 
-- I have 3 years experience in Java and I started to use Spring Boot from last year
-- I'm a beginner and just recently learned Spring Boot
-- I know Spring Boot very well and have been using it for many years
+- I have 6 years experience in Java and I started to use Spring Boot from last 2 year
+- I know Spring Boot very well and have been using it for 2 years
